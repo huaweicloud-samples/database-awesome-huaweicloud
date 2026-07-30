@@ -15,6 +15,7 @@
 | [hibernate-orm7.4.1](https://github.com/huaweicloud-samples/hibernate-orm7.4.1) | 应客户要求，基于hibernate7.4.1进行适配（支持 A 兼容（Oracle 风格）、M 兼容（MySQL 风格）），数据库版本505.2.1 0800SPC | gaussdb-drivers | incubating |
 | [huawei-elb-controller-for-everest-v1](https://github.com/huaweicloud-samples/huawei-elb-controller-for-everest-v1) | Huawei Cloud ELB Controller for OpenEverest V1 — manages ELB instances via LoadBalancerConfig CRD | public-cloud-continuous-operation-dept | incubating |
 | [huaweicloud](https://github.com/huaweicloud-samples/huaweicloud) | test | members | incubating |
+| [iaas-file-processing-example](https://github.com/huaweicloud-samples/iaas-file-processing-example) | An event-driven real-time file processing architecture. When a Markdown file is uploaded to OBS, two processing workflows are automatically triggered in parallel: **Markdown-to-HTML conversion** and **sentiment analysis**. | public-cloud-continuous-operation-competence-center | incubating |
 | [rvtools](https://github.com/huaweicloud-samples/rvtools) | test | members | incubating |
 | [test11](https://github.com/huaweicloud-samples/test11) | test | public-cloud-service-dept | incubating |
 <!-- AUTO-WORKFLOWS:END -->

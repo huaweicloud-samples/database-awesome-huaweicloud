@@ -12,6 +12,7 @@
 | [cloudoperation-resource-monitor-dashboard](https://github.com/huaweicloud-samples/cloudoperation-resource-monitor-dashboard) | HuaweiCloud Resource Monitor Dashboard 是一个面向华为云弹性云服务器（ECS）、云硬盘（EVS）和云监控（CES）的资源监控仪表盘。用户配置租户 AKSK 等鉴权信息后，后端定时或手动从华为云 API 采集资源数据与使用率指标，保存到本地 SQLite 数据库，并通过 RESTful API 为前端提供查询、筛选和导出报告功能。 | public-cloud-continuous-operation-competence-center | incubating |
 | [database-archery](https://github.com/huaweicloud-samples/database-archery) | 基于开源SQL审核查询平台Archery v1.14.0进行GaussDB数据库引擎适配。兼容PostgreSQL协议模式，支持GaussDB Kernel V500R002C00及以上版本。适配工作涵盖SQL查询（含执行计划分析、SHOW CREATE TABLE）、SQL上线工单全流程（提交-检测-审核-执行-回滚）、数据库管理、账号管理、参数配置与对比、慢查询分析、会话诊断、数据字典等核心功能模块。 | gaussdb-drivers | incubating |
 | [database-langchain-gaussdb-sync](https://github.com/huaweicloud-samples/database-langchain-gaussdb-sync) | GaussDB生态建设：适配LangChain，提供同步VectorStore和ChatMessageHistory能力 | gaussdb-drivers | incubating |
+| [database-n8n-gaussdb](https://github.com/huaweicloud-samples/database-n8n-gaussdb) | gaussdb生态建设：n8n 兼容gaussdb | gaussdb-drivers | incubating |
 | [database-ragflow](https://github.com/huaweicloud-samples/database-ragflow) | 生态建设，GaussDB 适配 RAGFlow | gaussdb-drivers | incubating |
 | [dify-gaussdb](https://github.com/huaweicloud-samples/dify-gaussdb) | gaussdb生态建设：dify适配兼容gaussdb | gaussdb-drivers | incubating |
 | [example-samples](https://github.com/huaweicloud-samples/example-samples) | @huaweicloudsamples | ImageTeam | incubating |
